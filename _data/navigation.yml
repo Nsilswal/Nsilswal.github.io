@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Ephemera"
+    url: /Ephemera/
+
   - title: "Publications"
     url: /publications/
 
@@ -8,15 +14,9 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
+  
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  - title: "Ephemera"
-    url: /Ephemera/
 
   # - title: "Guide"
   #   url: /markdown/

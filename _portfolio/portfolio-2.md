@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "SafeBites"
+excerpt: "iOS App to find Allergens in any language<br/><img src='/images/smartGlasses.png'>"
 collection: portfolio
 ---
 
