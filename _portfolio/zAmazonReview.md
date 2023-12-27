@@ -1,8 +1,8 @@
 ---
-title: "CatchUp"
-excerpt: "Reclaim your time. CatchUp liberates individuals from digital communication overload.<br/><img src='/images/amz1.png'> (Python, imaplib, smtplib, OpenAI API)"
+title: "Amazon Review Sentiment Analysis"
+excerpt: "Can we build a machine learning model to determine if a review is positive or negative?<br/><img src='/images/amz1.png'> (Keras, Tensorflow, Pandas)"
 collection: portfolio
-tools: "(Python, imaplib, smtplib, OpenAI API)"
+tools: "(Keras, Tensorflow, Pandas)"
 ---
 
 # Amazon Review Sentiment Analysis
@@ -25,7 +25,7 @@ Using sentiment analysis through machine learning could be beneficial to a user 
 
 To gain a grasp of what our model should be extracting from the data we generated word clouds to represent words utilized in recommended reviews and not-recommended reviews
 
-![Screenshot 2023-08-23 at 4.50.16 PM.png](Amazon%20Review%20Sentiment%20Analysis%2069ddabd7de5b46daaceb6e0e1043dbdb/Screenshot_2023-08-23_at_4.50.16_PM.png)
+<img src='/images/amz2.png'>
 
 ## Encodings & Tokenization
 
@@ -44,13 +44,13 @@ The cell state vector is then further modified by a "forget gate" vector, which 
 
 LSTM cells are designed to be able to selectively remember or forget information over long periods of time, which makes them particularly useful for natural language processing tasks where context is important.
 
-![Screenshot 2023-08-23 at 4.56.07 PM.png](Amazon%20Review%20Sentiment%20Analysis%2069ddabd7de5b46daaceb6e0e1043dbdb/Screenshot_2023-08-23_at_4.56.07_PM.png)
+<img src='/images/amz3.png'>
 
 Our model achieved an accuracy of 0.9185 after 5 epochs and an AUC of 92%
 
 ### Results
 
-![Screenshot 2023-08-23 at 4.56.42 PM.png](Amazon%20Review%20Sentiment%20Analysis%2069ddabd7de5b46daaceb6e0e1043dbdb/Screenshot_2023-08-23_at_4.56.42_PM.png)
+<img src='/images/amz4.png'>
 
 ## Analysis
 
