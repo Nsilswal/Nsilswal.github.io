@@ -9,12 +9,12 @@ author_profile: true
 <div class="portfolio-grid">
   {% for post in site.portfolio %}
     <article class="post">
-      <h1>{{ post.title }}</h1>
-        {% include archive-single.html %}
+      <div class="entry-content">
+        {{% include archive-single.html %}}
+      </div>
     </article>
   {% endfor %}
 </div>
-
 
 <!-- {% include base_path %}
 
