@@ -8,8 +8,6 @@ tools: "(BERT, NLTK, Slack API, Python)"
 Demo Video: https://drive.google.com/file/d/16OQGDk5_1mgXYGfZ7Uo8WE9a62erzS7E/view?usp=drive_link
 
 
-# SlackWrapped!
-
 ## Overview
 
 In a hybrid work environment, it’s often hard to establish open lines of communication and keep team morale high. SlackWrapped is like Spotify Wrapped but for team-wide Slack superlatives! By giving each slack channel interesting and unique analytics SlackWrapped enables coworkers to establish more personable connections while having light-hearted fun at work.
