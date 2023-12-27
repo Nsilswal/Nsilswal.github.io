@@ -2,6 +2,7 @@
 title: "CatchUp"
 excerpt: "Reclaim your time. CatchUp liberates individuals from digital communication overload.<br/><img src='/images/CatchUp.jpeg'>"
 collection: portfolio
+tools: "(Python, imaplib, smtplib, OpenAI API)"
 ---
 
 Demo Video: https://www.youtube.com/watch?v=T-NDlahbAfE

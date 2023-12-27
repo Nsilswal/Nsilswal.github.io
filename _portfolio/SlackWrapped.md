@@ -2,6 +2,7 @@
 title: "SlackWrapped"
 excerpt: "SlackWrapped is like Spotify Wrapped but for team-wide Slack superlatives!<br/><img src='/images/Wrapped!.png'>"
 collection: portfolio
+tools: "(BERT, NLTK, Slack API, Python)"
 ---
 
 Demo Video: https://drive.google.com/file/d/16OQGDk5_1mgXYGfZ7Uo8WE9a62erzS7E/view?usp=drive_link

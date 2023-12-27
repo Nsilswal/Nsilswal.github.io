@@ -2,11 +2,14 @@
 title: "SafeBites"
 excerpt: "iOS App to find Allergens in any language<br/><img src='/images/safeBites.png'>"
 collection: portfolio
+tools: "(Swift, VisionKit, iOS, SwiftUI)"
 ---
 
 Demo Video: https://www.youtube.com/watch?v=evU1T4tzB8Q
 
 Github Repo: https://github.com/Nsilswal/Safe-Bites
+
+[![Demo Video](https://img.youtube.com/vi/evU1T4tzB8Q/0.jpg)](https://www.youtube.com/watch?v=evU1T4tzB8Q)
 
 SafeBites Won the Accessibility Track Award at the HackDuke Hackathon in 2023
 
