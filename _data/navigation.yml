@@ -6,15 +6,15 @@ main:
   - title: "Ephemera"
     url: /Ephemera/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/
-  
+
   # - title: "Blog Posts"
   #   url: /year-archive/
 

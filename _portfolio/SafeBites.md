@@ -1,6 +1,6 @@
 ---
 title: "SafeBites"
-excerpt: "iOS App to find Allergens in any language<br/><img src='/images/safeBites.png'>(Swift, VisionKit, iOS, SwiftUI)"
+excerpt: "iOS App to find Allergens in any language<br/><img src='/images/safeBites.png' width='300px'>(Swift, VisionKit, iOS, SwiftUI)"
 collection: portfolio
 tools: "(Swift, VisionKit, iOS, SwiftUI)"
 ---
