@@ -1,14 +1,30 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Portfolio (Click on HyperLinks to view the project)"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+
+<table style="width: 100%;">
+  <tr>
+    {% for post in site.portfolio %}
+      <td style="width: 33%; padding: 10px; vertical-align: top;">
+        <article class="post">
+          <h1>{{ post.title }}</h1>
+          <div class="entry-content">
+            {{ post.content }}
+          </div>
+        </article>
+      </td>
+    {% endfor %}
+  </tr>
+</table>
+
+<!-- {% include base_path %}
 
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
