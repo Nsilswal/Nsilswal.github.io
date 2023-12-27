@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 Demo Video: https://www.youtube.com/watch?v=yibkjnsFtRA&t=43s
+
 Github: https://github.com/meganjfong/ECE495_SmartGlasses
 
 # Smart Glasses Project Repository

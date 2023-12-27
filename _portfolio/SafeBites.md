@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 Demo Video: https://www.youtube.com/watch?v=evU1T4tzB8Q
+
 Github Repo: https://github.com/Nsilswal/Safe-Bites
 
 SafeBites Won the Accessibility Track Award at the HackDuke Hackathon in 2023
