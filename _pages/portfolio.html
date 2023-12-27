@@ -5,28 +5,17 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
 
 <div class="portfolio-grid">
-  {% assign projects_per_row = 3 %}
   {% for post in site.portfolio %}
-    {% if forloop.index0 % projects_per_row == 0 %}
-      <div class="portfolio-row">
-    {% endif %}
-
-    <div class="post">
-      <h1>{{ archive-single.html }}</h1>
+    <article class="post">
+      <h1>{{ post.title }}</h1>
       <div class="entry-content">
-        {{ post.title }}
+        {{ post.content }}
       </div>
-    </div>
-
-    {% if forloop.index0 % projects_per_row == projects_per_row - 1 or forloop.last %}
-      </div>
-    {% endif %}
+    </article>
   {% endfor %}
 </div>
-
 
 <!-- {% include base_path %}
 
