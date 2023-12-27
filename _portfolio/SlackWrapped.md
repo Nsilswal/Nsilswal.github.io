@@ -1,6 +1,6 @@
 ---
 title: "SlackWrapped"
-excerpt: "SlackWrapped is like Spotify Wrapped but for team-wide Slack superlatives!<br/><img src='/images/Wrapped!.png' (BERT, NLTK, Slack API, Python)>"
+excerpt: "SlackWrapped is like Spotify Wrapped but for team-wide Slack superlatives!<br/><img src='/images/Wrapped!.png'> (BERT, NLTK, Slack API, Python)"
 collection: portfolio
 tools: "(BERT, NLTK, Slack API, Python)"
 ---

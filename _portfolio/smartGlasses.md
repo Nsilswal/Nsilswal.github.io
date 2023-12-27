@@ -1,6 +1,6 @@
 ---
 title: "SmartGlasses"
-excerpt: "Wearable SmartGlasses using RaspberryPi<br/><img src='/images/smartGlasses.png'> (SPI Interfaece, GPIO I/O, RaspberryPi, Python, Google Translate API, DropBox API, OpenWeatherMap API)"
+excerpt: "Wearable SmartGlasses using RaspberryPi<br/><img src='/images/smartGlasses.png'> (SPI, GPIO I/O, RaspberryPi, Python, Google Translate API, DropBox API, OpenWeatherMap API)"
 collection: portfolio
 ---
 

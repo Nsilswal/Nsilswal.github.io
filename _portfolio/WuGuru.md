@@ -1,6 +1,6 @@
 ---
 title: "WuGuru"
-excerpt: "Database of Duke Food Items where users can review and learn about new ones!<br/><img src='/images/WuGuru.png' (SQL, Flask, HTML, Python)>"
+excerpt: "Database of Duke Food Items where users can review and learn about new ones!<br/><img src='/images/WuGuru.png'> (SQL, Flask, HTML, Python)"
 collection: portfolio
 ---
 
