@@ -9,7 +9,6 @@ Demo Video: https://www.youtube.com/watch?v=evU1T4tzB8Q
 
 Github Repo: https://github.com/Nsilswal/Safe-Bites
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=evU1T4tzB8Q" frameborder="0" allowfullscreen></iframe>
 
 SafeBites Won the Accessibility Track Award at the HackDuke Hackathon in 2023
 

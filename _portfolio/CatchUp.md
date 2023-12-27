@@ -1,6 +1,6 @@
 ---
 title: "CatchUp"
-excerpt: "Reclaim your time. CatchUp liberates individuals from digital communication overload.<br/><img src='/images/CatchUp.jpeg'>"
+excerpt: "Reclaim your time. CatchUp liberates individuals from digital communication overload.<br/><img src='/images/CatchUp.jpeg' (Python, imaplib, smtplib, OpenAI API)>"
 collection: portfolio
 tools: "(Python, imaplib, smtplib, OpenAI API)"
 ---
