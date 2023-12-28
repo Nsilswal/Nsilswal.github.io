@@ -1,6 +1,6 @@
 ---
 title: "CatchUp"
-excerpt: "Reclaim your time. CatchUp liberates individuals from digital communication overload.<br/><img src='/images/CatchUp.jpeg'> (Python, imaplib, smtplib, OpenAI API)"
+excerpt: "CatchUp parses through your unread emails and sends you an email with a summary of everything you missed! <br/><img src='/images/CatchUp.jpeg'> (Python, imaplib, smtplib, OpenAI API)"
 collection: portfolio
 tools: "(Python, imaplib, smtplib, OpenAI API)"
 ---
