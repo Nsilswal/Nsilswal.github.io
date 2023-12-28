@@ -7,6 +7,8 @@ tools: "(Keras, Tensorflow, Pandas)"
 
 # Amazon Review Sentiment Analysis
 
+Github Link: <https://github.com/Nsilswal/Amazon-Sentiment-Analysis>
+
 ## Overview
 
 The goal of this project was to utilize sentiment analysis to generate meaning and drive business value through Natural Language Processing on Amazon Reviews. This kind of analysis would be beneficial to a seller on Amazon by enabling them to quickly parse and understand negative reviews to improve the product / experience for the user.
@@ -56,6 +58,4 @@ Our model achieved an accuracy of 0.9185 after 5 epochs and an AUC of 92%
 
 To view our full analysis please take a look at the pdf in our gitHub repo. TLDR: The best model isn’t necessarily the one with the best accuracy - it depends on how you want to optimize fore Recall, Precision, and Sensitivity
 
-## Github Link
 
-Project Link: https://github.com/Nsilswal/Amazon-Sentiment-Analysis
