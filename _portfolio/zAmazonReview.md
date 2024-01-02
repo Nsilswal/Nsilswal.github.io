@@ -5,8 +5,6 @@ collection: portfolio
 tools: "(Keras, Tensorflow, Pandas)"
 ---
 
-# Amazon Review Sentiment Analysis
-
 Github Link: <https://github.com/Nsilswal/Amazon-Sentiment-Analysis>
 
 ## Overview
