@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nirvan Silswal and I'm currently a Senior at Duke studying CS & Statistics. I have an interest in building machine learning paradigms modeled after the human brain and am interested in Computational Neuroscience.
-
-Welcome to my personal website, where I've included current and past projects I've worked on alongside descriptions of my experience. These projects in my portfolio highlight my experience in software engineering, ranging from web development to hardware. Feel free to send me an email at <nirvan.silswal@duke.edu> if you have any questions! I also use this site as a personal blog of sorts, where I highlight things I find interesting under Ephemera.
+My name is Nirvan Silswal and I'm currently a Senior at Duke studying Computer Science, Statistics, and Economics. Welcome to my personal website, where I've included current and past projects I've worked on alongside descriptions of my experience. These projects in my portfolio highlight my experience in software engineering, ranging from web development to hardware. Feel free to send me an email at <nirvan.silswal@duke.edu> if you have any questions! I also use this site as a personal blog of sorts, where I highlight things I find interesting under Ephemera.
 
 I'm currently an undergraduate researcher in the [Topological Learning Lab at Duke](https://www.topo-learn.com/), you can check the lab out [here](https://www.topo-learn.com/).
 
