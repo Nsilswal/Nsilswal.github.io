@@ -14,6 +14,8 @@ I'm currently an undergraduate researcher in the [Topological Learning Lab at Du
 
 ## Awards
 
+Winner of Stanford TreeHacks Neo: Most Likely To become a Business
+
 Winner of OpenAI Duke Generative Hackathon Enterprise Track 2023
 
 Winner of HackDuke Hackathon Accessibility Track 2023
